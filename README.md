@@ -1,5 +1,5 @@
 # token
-WIMT ERC20 Token testing
+WIMT ERC20 Token testing.
 
 Just copy the token contract code to https://remix.ethereum.org/#optimize=true&version=soljson-v0.4.25+commit.59dbf8f1.js on your browser.
 
